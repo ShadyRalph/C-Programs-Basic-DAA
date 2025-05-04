@@ -44,7 +44,7 @@ int UnimodalSearch(int *arr,int n,int key){
     int ind=binarySearch(arr,key,0,peak,1);
     if(ind!=-1)
         return ind;
-    //decreasing slope
+    //decreasing slope   
     ind=binarySearch(arr,key,peak+1,n-1,0);
     return ind;
 }
