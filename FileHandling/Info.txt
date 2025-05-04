@@ -1,0 +1,5 @@
+Name: soham
+Class: 1st year
+Section: A
+Roll no.: 2351009
+Deapartment: CSE

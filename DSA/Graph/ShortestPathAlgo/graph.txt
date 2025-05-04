@@ -1,0 +1,30 @@
+11
+17
+80 0 1
+25 0 5
+21 0 6
+25 3 1
+60 1 2
+55 2 3
+35 3 4
+40 3 5
+20 4 5
+23 6 5
+25 6 7
+20 7 4
+70 4 10
+45 10 9
+30 9 8
+10 8 6
+12 7 9
+Dyer(0)
+Manhattan(1)
+Warm springs(2)
+tonopah(3)
+Goldfield(4)
+SilverPeak(5)
+oasis(6)
+lida(7)
+deep springs(8)
+gold point(9)
+beatty(10)

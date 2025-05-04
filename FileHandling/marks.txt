@@ -1,0 +1,4 @@
+Pratap 80 90 70
+Raju 60 75 95
+Jayanta 77 88 99
+Rekha 75 85 70
